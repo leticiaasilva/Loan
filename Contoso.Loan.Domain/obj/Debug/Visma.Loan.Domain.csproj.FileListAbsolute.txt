@@ -1,0 +1,11 @@
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\bin\Debug\Contoso.Loan.Domain.dll
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\bin\Debug\Contoso.Loan.Domain.pdb
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\obj\Debug\Contoso.Loan.Domain.csprojResolveAssemblyReference.cache
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\obj\Debug\Contoso.Loan.Domain.dll
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\obj\Debug\Contoso.Loan.Domain.pdb
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\bin\Debug\Contoso.Loan.Domain.dll
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\bin\Debug\Contoso.Loan.Domain.pdb
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\obj\Debug\Visma.Loan.Domain.csproj.AssemblyReference.cache
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\obj\Debug\Visma.Loan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\obj\Debug\Contoso.Loan.Domain.dll
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\obj\Debug\Contoso.Loan.Domain.pdb

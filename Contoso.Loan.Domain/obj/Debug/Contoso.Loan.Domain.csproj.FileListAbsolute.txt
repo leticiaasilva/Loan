@@ -1,0 +1,10 @@
+C:\Users\jbrennan\Dropbox\My Documents\Development\Contoso Bank\Contoso.Loan.Domain\bin\Debug\Contoso.Loan.Domain.dll
+C:\Users\jbrennan\Dropbox\My Documents\Development\Contoso Bank\Contoso.Loan.Domain\bin\Debug\Contoso.Loan.Domain.pdb
+C:\Users\jbrennan\Dropbox\My Documents\Development\Contoso Bank\Contoso.Loan.Domain\obj\Debug\Contoso.Loan.Domain.dll
+C:\Users\jbrennan\Dropbox\My Documents\Development\Contoso Bank\Contoso.Loan.Domain\obj\Debug\Contoso.Loan.Domain.pdb
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\bin\Debug\Contoso.Loan.Domain.dll
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\bin\Debug\Contoso.Loan.Domain.pdb
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\obj\Debug\Contoso.Loan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\obj\Debug\Contoso.Loan.Domain.dll
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\obj\Debug\Contoso.Loan.Domain.pdb
+C:\Users\letic\Documents\Workspace\MVC-Loan\Contoso.Loan.Domain\obj\Debug\Contoso.Loan.Domain.csproj.AssemblyReference.cache

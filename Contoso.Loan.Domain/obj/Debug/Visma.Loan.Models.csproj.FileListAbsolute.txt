@@ -1,0 +1,9 @@
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\bin\Debug\Contoso.Loan.Models.dll
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\bin\Debug\Contoso.Loan.Models.pdb
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\obj\Debug\Contoso.Loan.Models.dll
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\obj\Debug\Contoso.Loan.Models.pdb
+C:\Users\jbrennan\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\obj\Debug\Contoso.Loan.Models.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\bin\Debug\Contoso.Loan.Models.dll
+C:\Users\John\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\bin\Debug\Contoso.Loan.Models.pdb
+C:\Users\John\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\obj\Debug\Contoso.Loan.Models.dll
+C:\Users\John\Dropbox\My Documents\Personal\Career\Interviews\Assignment\Contoso.Loan\Contoso.Loan.Entities\obj\Debug\Contoso.Loan.Models.pdb
